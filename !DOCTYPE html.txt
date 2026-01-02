@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Professional Online Income Website</title>
+
+<style>
+body{margin:0;font-family:Arial;background:#0b1120;color:white}
+
+/* Header */
+.header{
+background:linear-gradient(45deg,#ff0077,#ff9800);
+padding:45px;text-align:center}
+.header h1{font-size:38px;margin:0}
+.header p{font-size:19px;margin-top:10px}
+
+/* Container */
+.container{
+max-width:1050px;margin:auto;background:#10182f;
+padding:25px;border-radius:12px;
+box-shadow:0 0 20px black;margin-top:25px}
+
+/* Sections */
+.section{margin-top:25px}
+.box{
+background:#1a2446;padding:18px;
+border-radius:10px;margin-top:10px}
+ul li{margin-top:6px}
+
+/* Main CTA */
+.btn-main{
+background:linear-gradient(45deg,#ff0077,#ff9800);
+padding:16px 28px;font-size:22px;border-radius:50px;
+color:#fff;text-decoration:none;font-weight:bold;
+box-shadow:0 0 25px #ff9800;
+transition:.4s}
+.btn-main:hover{
+transform:scale(1.1);
+box-shadow:0 0 40px #ff4500}
+.center{text-align:center;margin-top:25px}
+
+/* Mid CTA Box */
+.mid-btn{
+background:#27c93f;padding:14px 22px;
+border-radius:8px;font-size:20px;color:white;
+text-decoration:none;font-weight:bold}
+
+/* Floating Button */
+.floating{
+position:fixed;bottom:18px;right:18px;
+background:linear-gradient(45deg,#ff0077,#ff9800);
+padding:14px 22px;border-radius:50px;font-size:18px;
+color:white;font-weight:bold;text-decoration:none;
+box-shadow:0 0 25px #ff9800;
+animation:pulse 1.5s infinite}
+@keyframes pulse{
+0%{transform:scale(1)}
+50%{transform:scale(1.1)}
+100%{transform:scale(1)}}
+
+/* Glow Title */
+.glow{color:#ffd700;font-size:20px;
+animation:blink 1.5s infinite}
+@keyframes blink{
+0%{opacity:1}
+50%{opacity:.4}
+100%{opacity:1}}
+
+/* Footer */
+.footer{text-align:center;padding:20px;color:#ccc}
+</style>
+</head>
+
+<body>
+
+<!-- HERO SECTION + BIG CTA -->
+<div class="header">
+<h1>🔥 Trusted Online Income & Trading Platform</h1>
+<p>বাংলাদেশের হাজারো মানুষ প্রতিদিন এখান থেকে ইনকাম করছে</p>
+
+<a href="https://one.exnessonelink.com/a/c_hr9bt2jkfk" class="btn-main">
+🚀 Register Now – Start Earning
+</a>
+</div>
+
+<div class="container">
+
+<!-- Benefits -->
+<div class="section">
+<h2>🚀 এই প্ল্যাটফর্মে কী পাবেন?</h2>
+<div class="box">
+<ul>
+<li>💰 প্রতিদিন ইনকাম করার সুযোগ</li>
+<li>⚡ খুব দ্রুত Withdraw</li>
+<li>📱 শুধু মোবাইল থাকলেই কাজ</li>
+<li>🛡 100% Trusted & Secure</li>
+<li>🎯 নতুনদের জন্য সম্পূর্ণ গাইড</li>
+</ul>
+</div>
+</div>
+
+<!-- Why Join -->
+<div class="section">
+<h2>📢 কেন আমাদের সাথে কাজ করবেন?</h2>
+<div class="box">
+👉 শুধু লিংক না – ফুল সাপোর্ট 💯 <br>
+👉 একদম নতুনরাও সহজে শিখে আয় করতে পারবে <br>
+👉 Training + Support Lifetime <br>
+👉 Already হাজার হাজার মানুষের ইনকাম চলছে
+</div>
+</div>
+
+<!-- MID CTA -->
+<div class="center">
+<h2 class="glow">👇 এখনই রেজিস্ট্রেশন করুন</h2>
+<a href="https://one.exnessonelink.com/a/c_hr9bt2jkfk" class="mid-btn">
+🔰 Register Free
+</a>
+</div>
+
+<!-- Work Process -->
+<div class="section">
+<h2>❓ কিভাবে কাজ করবেন?</h2>
+<div class="box">
+১️⃣ রেজিস্ট্রেশন করুন<br>
+২️⃣ অ্যাকাউন্ট ভেরিফাই করুন<br>
+৩️⃣ টিম থেকে গাইড নিন<br>
+৪️⃣ কাজ শুরু করুন<br>
+৫️⃣ ইনকাম করুন 💸
+</div>
+</div>
+
+<!-- Support -->
+<div class="section">
+<h2>📞 সাহায্য লাগলে?</h2>
+<div class="box">
+আমরা সবসময় আপনাদের পাশে ❤️<br>
+Support – 24 Hours Available
+</div>
+</div>
+
+</div>
+
+<div class="footer">
+© 2026 Professional Online Income Website — All Rights Reserved
+</div>
+
+<!-- FLOATING BUTTON -->
+<a href="https://one.exnessonelink.com/a/c_hr9bt2jkfk" class="floating">
+🔥 Register Now
+</a>
+
+</body>
+</html>
